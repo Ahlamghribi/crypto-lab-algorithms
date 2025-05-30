@@ -4,8 +4,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Cryptography](https://img.shields.io/badge/Cryptography-FF6B6B?style=for-the-badge&logo=security&logoColor=white)](#)
-[![USTHB](https://img.shields.io/badge/USTHB-4ECDC4?style=for-the-badge&logo=university&logoColor=white)](#)
-
 **Collection complète des algorithmes de la cryptographie - De César à ECC, tous les algorithmes essentiels implémentés**
 
 🔒 **Sécurité** • 🧮 **Algorithmes** • 🎓 **Éducatif**
